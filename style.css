@@ -1,0 +1,15 @@
+.single{
+	border: 1px solid black;
+	width: 29%;
+	float: left;
+	margin: 2%;
+}
+
+.titles {
+	text-align: center;
+	line-height: 70%;
+}
+
+.mass {
+	text-align: center;
+}
